@@ -7,6 +7,9 @@ import org.springframework.stereotype.Repository;
 import org.springframework.jdbc.core.simple.JdbcClient;
 import org.springframework.util.Assert;
 
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
@@ -30,8 +33,12 @@ public class RunRepository {
     }
 
     public void create(Run run) {
-        var updated = jdbcClient.sql("INSERT INTO Run(id, title, email) values(?,?,?)")
-                .params(List.of(run.id(),run.title(),run.email())).update();
+        //NOTE: If experiencing an error like 'ID not specified', go to MySQL
+        //  and enter this: 'ALTER TABLE runnerz.run MODIFY id int NOT NULL AUTO_INCREMENT;
+
+        //System.out.println("Call Happened " + run.toString()); //DEBUG
+        var updated = jdbcClient.sql("INSERT INTO Run(title, email) values(?,?)")
+                .params(List.of(run.title(),run.email())).update();
         //Returns number of rows affected (want it to be 1)
         Assert.state(updated == 1, "Failed to create run " + run.title());
     }
