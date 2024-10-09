@@ -1,4 +1,4 @@
-package com.springTest.SprintTest;
+package com.findasitter.sitter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
