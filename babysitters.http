@@ -19,13 +19,13 @@ Content-Type: application/json
   "location": "OUTDOOR"
 }
 
-### Create new Run with invalid dates (completedOn is before startedOn)
+### Create new Babysitter with invalid name (name is integer)
 POST http://localhost:8080/api/babysitters
 Content-Type: application/json
 
 {
   "id": 11,
-  "firstName": "Tanya",
+  "firstName": 4,
   "lastName": "Smith",
   "zipCode": 55446,
   "yearsOfExperience": 6,
@@ -42,10 +42,10 @@ Content-Type: application/json
   "firstName": "Tanya",
   "lastName": "Smith",
   "zipCode": 55446,
-  "yearsOfExperience": 6,
+  "yearsOfExperience": 7,
   "hourlyRate": 15,
   "location": "OUTDOOR"
 }
 
-### Delete a Run
+### Delete a Babysitter
 DELETE http://localhost:8080/api/babysitters/11
