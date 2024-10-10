@@ -33,7 +33,7 @@ Content-Type: application/json
   "location": "OUTDOOR"
 }
 
-### Update an existing Run
+### Update an existing Babysitter (change in experience)
 PUT http://localhost:8080/api/babysitters/11
 Content-Type: application/json
 
