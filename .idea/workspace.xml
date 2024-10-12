@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65140e90-0a74-4e96-9d98-8504dccfa0b2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ma3jTILHmsYhRRrC436K0BeRft" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "HTTP Request.All in runnerz.executor": "Run",
+    "HTTP Request.runnerz | Create new Run with invalid title.executor": "Run",
+    "HTTP Request.runnerz | Create new Run.executor": "Run",
+    "HTTP Request.runnerz | Find Run By ID that doesn't exist.executor": "Run",
+    "HTTP Request.runnerz | Find Run By ID.executor": "Run",
+    "Maven.SprintTest [org.springframework.boot:spring-boot-maven-plugin:3.3.4:run].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.SprintTestApplication.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Phillip/Downloads/Phillips_Stuff/My_Stuff/My_Stuff_2/College_Stuff/A-Current_Classes/2024_Sept-Dec/Capstone/Current/Springboot_DB_Angular/SpringBoot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.springTest.SprintTest.run" />
+    </key>
+  </component>
+  <component name="RubyModuleManagerSettings">
+    <option name="blackListedRootsPaths">
+      <list>
+        <option value="$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.All in runnerz">
+    <configuration name="All in runnerz" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/api/runnerz.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="runnerz | Create new Run with invalid title" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api/runnerz.http" index="5" requestIdentifier="Create new Run with invalid title" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="runnerz | Create new Run" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api/runnerz.http" index="4" requestIdentifier="Create new Run" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="runnerz | Find Run By ID that doesn't exist" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api/runnerz.http" index="3" requestIdentifier="Find Run By ID that doesn't exist" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="runnerz | Find Run By ID" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api/runnerz.http" index="2" requestIdentifier="Find Run By ID" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="SprintTest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springTest.SprintTest.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.All in runnerz" />
+        <item itemvalue="HTTP Request.runnerz | Create new Run" />
+        <item itemvalue="HTTP Request.runnerz | Create new Run with invalid title" />
+        <item itemvalue="HTTP Request.runnerz | Find Run By ID" />
+        <item itemvalue="HTTP Request.runnerz | Find Run By ID that doesn't exist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65140e90-0a74-4e96-9d98-8504dccfa0b2" name="Changes" comment="" />
+      <created>1727300995190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727300995190</updated>
+      <workItem from="1727300996200" duration="13605000" />
+      <workItem from="1727405866040" duration="4876000" />
+      <workItem from="1727447037098" duration="36000" />
+      <workItem from="1727448131809" duration="670000" />
+      <workItem from="1727448861873" duration="819000" />
+      <workItem from="1727561371757" duration="3814000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
