@@ -1,7 +1,5 @@
 package com.springTest.SprintTest;
 
-import com.springTest.SprintTest.run.Run;
-import com.springTest.SprintTest.run.RunRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.CommandLineRunner;

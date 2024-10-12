@@ -1,0 +1,11 @@
+com\springTest\SprintTest\chat\Chat.class
+com\springTest\SprintTest\run\UserNotFoundException.class
+com\springTest\SprintTest\chat\Message.class
+com\springTest\SprintTest\chat\MessageRepository.class
+com\springTest\SprintTest\chat\MessageController.class
+com\springTest\SprintTest\chat\UserChat.class
+com\springTest\SprintTest\run\UserController.class
+com\springTest\SprintTest\run\Users.class
+com\springTest\SprintTest\run\User.class
+com\springTest\SprintTest\Application.class
+com\springTest\SprintTest\run\UserRepository.class

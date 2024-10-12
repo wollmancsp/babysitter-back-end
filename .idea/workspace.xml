@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65140e90-0a74-4e96-9d98-8504dccfa0b2" name="Changes" comment="" />
+    <list default="true" id="6c1aa02b-d701-4e0c-bc2e-890a13f65bde" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -28,45 +29,36 @@
     </option>
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
+  &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2ma3jTILHmsYhRRrC436K0BeRft" />
+  <component name="ProjectId" id="2nIg2NKphqsDvpkwn9ah59nxLHO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "HTTP Request.All in runnerz.executor": "Run",
-    "HTTP Request.runnerz | Create new Run with invalid title.executor": "Run",
-    "HTTP Request.runnerz | Create new Run.executor": "Run",
-    "HTTP Request.runnerz | Find Run By ID that doesn't exist.executor": "Run",
-    "HTTP Request.runnerz | Find Run By ID.executor": "Run",
-    "Maven.SprintTest [org.springframework.boot:spring-boot-maven-plugin:3.3.4:run].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.SprintTestApplication.executor": "Run",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Phillip/Downloads/Phillips_Stuff/My_Stuff/My_Stuff_2/College_Stuff/A-Current_Classes/2024_Sept-Dec/Capstone/Current/Springboot_DB_Angular/SpringBoot",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
-  },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
-    ]
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.SprintTest [org.springframework.boot:spring-boot-maven-plugin:3.3.4:run].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.SprintTest [org.springframework.boot:spring-boot-maven-plugin:3.3.4:start].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Application.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Phillip/Downloads/Phillips_Stuff/My_Stuff/My_Stuff_2/College_Stuff/A-Current_Classes/2024_Sept-Dec/Capstone/Current/Springboot_DB_Angular/TempSpringboot/src/main/java/com/springTest/SprintTest&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.springTest.SprintTest.run" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Phillip\Downloads\Phillips_Stuff\My_Stuff\My_Stuff_2\College_Stuff\A-Current_Classes\2024_Sept-Dec\Capstone\Current\Springboot_DB_Angular\TempSpringboot\src\main\java\com\springTest\SprintTest" />
+      <recent name="C:\Users\Phillip\Downloads\Phillips_Stuff\My_Stuff\My_Stuff_2\College_Stuff\A-Current_Classes\2024_Sept-Dec\Capstone\Current\Springboot_DB_Angular\TempSpringboot\src\main\java\com\springTest\SprintTest\user" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.springTest.SprintTest.chat" />
     </key>
   </component>
   <component name="RubyModuleManagerSettings">
@@ -76,20 +68,55 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="HTTP Request.All in runnerz">
-    <configuration name="All in runnerz" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/api/runnerz.http">
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="TempSpringboot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="TempSpringboot" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="TempSpringboot" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="runnerz | Create new Run with invalid title" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api/runnerz.http" index="5" requestIdentifier="Create new Run with invalid title" runType="Run single request">
-      <method v="2" />
-    </configuration>
-    <configuration name="runnerz | Create new Run" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api/runnerz.http" index="4" requestIdentifier="Create new Run" runType="Run single request">
-      <method v="2" />
-    </configuration>
-    <configuration name="runnerz | Find Run By ID that doesn't exist" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api/runnerz.http" index="3" requestIdentifier="Find Run By ID that doesn't exist" runType="Run single request">
-      <method v="2" />
-    </configuration>
-    <configuration name="runnerz | Find Run By ID" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api/runnerz.http" index="2" requestIdentifier="Find Run By ID" runType="Run single request">
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="TempSpringboot" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
       <method v="2" />
     </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
@@ -100,15 +127,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="HTTP Request.All in runnerz" />
-        <item itemvalue="HTTP Request.runnerz | Create new Run" />
-        <item itemvalue="HTTP Request.runnerz | Create new Run with invalid title" />
-        <item itemvalue="HTTP Request.runnerz | Find Run By ID" />
-        <item itemvalue="HTTP Request.runnerz | Find Run By ID that doesn't exist" />
-      </list>
-    </recent_temporary>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="TempSpringboot" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="TempSpringboot" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="TempSpringboot" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -120,17 +185,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="65140e90-0a74-4e96-9d98-8504dccfa0b2" name="Changes" comment="" />
-      <created>1727300995190</created>
+      <changelist id="6c1aa02b-d701-4e0c-bc2e-890a13f65bde" name="Changes" comment="" />
+      <created>1728665796205</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1727300995190</updated>
-      <workItem from="1727300996200" duration="13605000" />
-      <workItem from="1727405866040" duration="4876000" />
-      <workItem from="1727447037098" duration="36000" />
-      <workItem from="1727448131809" duration="670000" />
-      <workItem from="1727448861873" duration="819000" />
-      <workItem from="1727561371757" duration="3814000" />
+      <updated>1728665796205</updated>
+      <workItem from="1728665797209" duration="14859000" />
+      <workItem from="1728764558573" duration="3418000" />
     </task>
     <servers />
   </component>
